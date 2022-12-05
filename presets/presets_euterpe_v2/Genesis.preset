@@ -1,0 +1,49 @@
+{
+  "presetVersion": 3,
+  "name": "Genesis",
+  "id": "a60a28c6-9643-49a1-91af-3b12c1654a47",
+  "remoteId": "",
+  "parameters": {
+    "textGenerationSettingsVersion": 3,
+    "temperature": 0.63,
+    "max_length": 40,
+    "min_length": 1,
+    "top_k": 0,
+    "top_p": 0.975,
+    "top_a": 1,
+    "typical_p": 1,
+    "tail_free_sampling": 0.975,
+    "repetition_penalty": 2.975,
+    "repetition_penalty_range": 2048,
+    "repetition_penalty_slope": 0.09,
+    "repetition_penalty_frequency": 0,
+    "repetition_penalty_presence": 0,
+    "order": [
+      {
+        "id": "top_p",
+        "enabled": true
+      },
+      {
+        "id": "top_k",
+        "enabled": true
+      },
+      {
+        "id": "tfs",
+        "enabled": true
+      },
+      {
+        "id": "temperature",
+        "enabled": true
+      },
+      {
+        "id": "top_a",
+        "enabled": false
+      },
+      {
+        "id": "typical_p",
+        "enabled": false
+      }
+    ]
+  },
+  "model": "euterpe-v2"
+}

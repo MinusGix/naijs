@@ -1,0 +1,2 @@
+Note: These preset files are from https://github.com/Aedial/novelai-api/ and are thus under MIT license.  
+(Though, probably subordinate to NAI's license for them? Since they're just downloaded from the site)   
