@@ -1,4 +1,4 @@
-import fetch from "node-fetch";
+let fetch = require('node-fetch');
 
 const GPT2_BRACKETS: number[][] = [
     [58],

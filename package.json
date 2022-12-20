@@ -1,6 +1,6 @@
 {
   "name": "naijs",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "type": "commonjs",
   "description": "",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
   "author": "MinusGix",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^3.3.0"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "@types/node": "^18.11.11",
